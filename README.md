@@ -1,5 +1,7 @@
 ### Hi there 👋 My name is Valentin, nice to see you here 😄
 
+- My website : www.valentin-renon.fr
+
 - 🔭 My last full front-end project was [Wits](https://github.com/Cocolb22/wits) !
 - 🌱 I’m currently learning HTML, CSS, JS and starting REACT.
 - 🤔 I’m looking for help with [eco-ui-kit](https://github.com/Neron22/Eco-ui-kit).
